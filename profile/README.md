@@ -85,7 +85,7 @@ Krisis sampah di Indonesia semakin mendesak — dengan produksi sampah mencapai 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-square&logo=express&logoColor=white)
 
 > Frontend dibangun dengan React + Vite + Tailwind CSS. Backend RESTful API menggunakan Express.js (Node.js) dengan integrasi model AI secara end-to-end.
 
